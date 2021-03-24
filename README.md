@@ -4,7 +4,7 @@ This is a chat application that can be used for local usage in a small network. 
 # Instructions to run
 Clone the project
 
-git clone        
+git clone    https://github.com/Abasahebshelvane/Oneway-Chatting-App.git        
 ```
 
 ### DataBase - Mongo
@@ -25,19 +25,8 @@ Your server will be setup and ready for use.
 * Login from the same screen.  
 `Note: Handle should be unique for every user.`
 
-# Why I started this
-I had seen a lot of times during local camps that people find it difficult to interact with each other may be due to hesitation. Most of the local chats that we find will be again public and the interactions become public. So I was thinking of creating an application where people can talk in public as well as private.
 
-# Few Screen Shots
-#### Login Screen
-![login screen]( "Login Page")  
-#### Confirming request 
-![Confirming request to chat]( "Confirming Request")  
-#### Online users
-![online users]( "Online users")  
 
-#### Chatting with Friend
-![Chatting]( "Chatting with Friend"
 
 
 # Credits
